@@ -97,9 +97,9 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Universidad de Guadalajara (UDG) CUCEI
+        sub_title: Computer Engineering
+        caption: Date Range 2020 – Currently being finalized
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
