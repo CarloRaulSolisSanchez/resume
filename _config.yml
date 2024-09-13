@@ -107,11 +107,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      In aditon to my previous mentioned skills some of by other interest and hobbies are:
-      <li> Reading </li>
-      <li> Watching Movies </li>
-      <li> Teamwork </li>
-      <li> Gaming </li>
+      description: |
+        In aditon to my previous mentioned skills some of by other interest and hobbies are:
+        <li> Reading </li>
+        <li> Watching Movies </li>
+        <li> Teamwork </li>
+        <li> Gaming </li>
 
 # Footer
 footer_show_references: true
