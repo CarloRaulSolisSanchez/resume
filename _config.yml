@@ -104,10 +104,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       In aditon to my previous mentioned skills some of by other interest and hobbies are:
-      Reading </li>
-      <li> Watching Movies </li>
-      <li> Teamwork </li>
-      <li> Gaming </li>
+      - Reading
+      - Watching Movies
+      - Teamwork
+      - Gaming
 
 # Footer
 footer_show_references: true
