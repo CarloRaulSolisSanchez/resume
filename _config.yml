@@ -52,7 +52,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Carlo Raul Solis Sanchez, I am a Computing Engineering student with fundamentals in <mark>technology</mark> and <mark>problem-solving</mark>.
+  Hello, my name is Carlo Raul Solis Sanchez, I am a Computing Engineering student with fundamentals in <mark>technology</mark>
+  and <mark>problem-solving</mark>. I consider myself agile in learning new knowledge and adapting to emerging technologies,
+  which help me to contribute effectively to team projects additional to my academic backgroung and some project development experience.
 
 content:
   - title: Projects # Title for the section
@@ -102,7 +104,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       In aditon to my previous mentioned skills some of by other interest and hobbies are:
-      <li> Reading </li>
+      Reading </li>
       <li> Watching Movies </li>
       <li> Teamwork </li>
       <li> Gaming </li>
